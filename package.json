@@ -1,0 +1,25 @@
+{
+   "name":"theme-cynical",
+   "displayName":"theme-cynical",
+   "description":"Theme to match manjaro.",
+   "version":"1.0.1",
+   "publisher":"TheCynialTeam",
+   "license":"MIT",
+   "engines":{
+      "vscode":"*"
+   },
+   "icon":"images/icon.png",
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/TheCynicalTeam/vscode-theme-cynical"
+   },
+   "contributes":{
+      "themes":[
+         {
+            "label":"Cynical",
+            "uiTheme":"vs-dark",
+            "path":"./themes/cynical-color-theme.json"
+         }
+      ]
+   }
+}
