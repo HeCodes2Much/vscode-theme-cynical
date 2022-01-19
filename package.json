@@ -1,24 +1,24 @@
 {
-   "name":"theme-cynical",
-   "displayName":"theme-cynical",
-   "description":"Theme to match manjaro.",
-   "version":"1.0.1",
-   "publisher":"TheCynialTeam",
-   "license":"MIT",
-   "engines":{
-      "vscode":"*"
+   "name": "theme-mangayo",
+   "displayName": "theme-mangayo",
+   "description": "Theme to match manjaro.",
+   "version": "1.0.1",
+   "publisher": "TheRepoClub",
+   "license": "MIT",
+   "engines": {
+      "vscode": "*"
    },
-   "icon":"images/icon.png",
-   "repository":{
-      "type":"git",
-      "url":"https://github.com/TheCynicalTeam/vscode-theme-cynical"
+   "icon": "images/logo.png",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/TheCynicalTeam/vscode-theme-cynical"
    },
-   "contributes":{
-      "themes":[
+   "contributes": {
+      "themes": [
          {
-            "label":"Cynical",
-            "uiTheme":"vs-dark",
-            "path":"./themes/cynical-color-theme.json"
+            "label": "mMngayo",
+            "uiTheme": "vs-dark",
+            "path": "./themes/cynical-color-theme.json"
          }
       ]
    }
